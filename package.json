@@ -1,6 +1,6 @@
 {
   "name": "remark-plantuml",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parses PlantUML, returning it as an embeded image.",
   "main": "index.js",
   "scripts": {
