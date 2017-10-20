@@ -1,25 +1,88 @@
 {
-  "name": "remark-plantuml",
-  "version": "0.1.0",
+  "_args": [
+    [
+      {
+        "raw": "git://github.com/BrekiTomasson/remark-plantuml.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git://github.com/BrekiTomasson/remark-plantuml.git",
+        "spec": "git://github.com/BrekiTomasson/remark-plantuml.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:BrekiTomasson/remark-plantuml.git",
+          "sshUrl": "git+ssh://git@github.com/BrekiTomasson/remark-plantuml.git",
+          "httpsUrl": "git+https://github.com/BrekiTomasson/remark-plantuml.git",
+          "gitUrl": "git://github.com/BrekiTomasson/remark-plantuml.git",
+          "shortcut": "github:BrekiTomasson/remark-plantuml",
+          "directUrl": "https://raw.githubusercontent.com/BrekiTomasson/remark-plantuml/master/package.json"
+        }
+      },
+      "C:\\Users\\BTomasson\\Desktop\\Lab\\pandoc"
+    ]
+  ],
+  "_from": "git://github.com/BrekiTomasson/remark-plantuml.git",
+  "_id": "remark-plantuml@0.1.0",
+  "_inCache": true,
+  "_location": "/remark-plantuml",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git://github.com/BrekiTomasson/remark-plantuml.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git://github.com/BrekiTomasson/remark-plantuml.git",
+    "spec": "git://github.com/BrekiTomasson/remark-plantuml.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:BrekiTomasson/remark-plantuml.git",
+      "sshUrl": "git+ssh://git@github.com/BrekiTomasson/remark-plantuml.git",
+      "httpsUrl": "git+https://github.com/BrekiTomasson/remark-plantuml.git",
+      "gitUrl": "git://github.com/BrekiTomasson/remark-plantuml.git",
+      "shortcut": "github:BrekiTomasson/remark-plantuml",
+      "directUrl": "https://raw.githubusercontent.com/BrekiTomasson/remark-plantuml/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/BrekiTomasson/remark-plantuml.git#29892cf39f6568da6b17a87b267cf6d675bba16b",
+  "_shasum": "34637ef125fa34ac5086a76e225c147e43e2abc4",
+  "_shrinkwrap": null,
+  "_spec": "git://github.com/BrekiTomasson/remark-plantuml.git",
+  "_where": "C:\\Users\\BTomasson\\Desktop\\Lab\\pandoc",
+  "author": {
+    "name": "Breki Tomasson"
+  },
+  "bugs": {
+    "url": "https://github.com/BrekiTomasson/remark-plantuml/issues"
+  },
+  "dependencies": {},
   "description": "Parses PlantUML, returning it as an embeded image.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo 'No tests specified yet' && exit 0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BrekiTomasson/remark-plantuml.git"
-  },
+  "devDependencies": {},
+  "gitHead": "29892cf39f6568da6b17a87b267cf6d675bba16b",
+  "homepage": "https://github.com/BrekiTomasson/remark-plantuml#readme",
   "keywords": [
     "plantuml",
     "remark",
     "markdown",
     "uml"
   ],
-  "author": "Breki Tomasson",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrekiTomasson/remark-plantuml/issues"
+  "main": "index.js",
+  "name": "remark-plantuml",
+  "optionalDependencies": {},
+  "readme": "# remark-plantuml\r\n\r\n> Placeholder. Does nothing ... yet.\r\n\r\nAllows you to parse and view PlantUML through [Remark](https://github.com/wooorm/remark),\r\nalthough I should maybe think about calling it straight from Unified.\r\n\r\n... Nah.",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrekiTomasson/remark-plantuml.git"
   },
-  "homepage": "https://github.com/BrekiTomasson/remark-plantuml#readme"
+  "scripts": {
+    "test": "echo 'No tests specified yet' && exit 0"
+  },
+  "version": "0.1.0"
 }

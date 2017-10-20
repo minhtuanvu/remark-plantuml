@@ -2,4 +2,8 @@ var VFile = require('vfile')
 var path  = require('path')
 var fs    = require('fs')
 
-console.log("Look at me, I'm in beta!")
+module.exports = {
+  temp: function () {
+    console.log('Nothing here yet. Coming soon, though!')
+  }
+};
